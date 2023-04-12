@@ -253,7 +253,7 @@ def parameter_sets_backward(current_frequency, sel_advantages, number_of_traject
     # length of sequence
     params['lsites'] = 10000
     # position of target site
-    params['selpos'] = 2/params['lsites']
+    params['selpos'] = params['lsites']/2
 
     # mutation rate per site per generation
     params['per_site_theta'] = 1.0 * 10 ** (-8) * 4 * params['N0']
