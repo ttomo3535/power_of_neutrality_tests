@@ -1,0 +1,30 @@
+ DnaSP  Ver. 5.10.01                        13 - April - 2023  12:14:53
+ ======================================================================
+
+
+ Tajima's Test
+ -------------
+
+ Input Data File: C:\...\sample_data.fas
+ Population used: sample
+    Number of sequences used: 120
+ Selected region: 1-12   Number of sites: 12
+ Total number of sites (excluding sites with gaps / missing data): 12
+
+ Number of polymorphic (segregating) sites, S: 12
+ Total number of mutations, Eta: 12
+
+ Average number of nucleotide differences, k: 1.69188
+    Nucleotide diversity, Pi: 0.14099
+ Theta (per sequence) from Eta: 2.23858
+    Theta (per site) from Eta: 0.18655
+
+ Tajima's D: -0.63271     Statistical significance: Not significant, P > 0.10
+
+
+ ============ Synonymous and NonSynonymous Substitutions ============
+
+ No coding region defined
+
+ Calculated using the total number of mutations
+

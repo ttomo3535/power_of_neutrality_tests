@@ -1,0 +1,41 @@
+ DnaSP  Ver. 5.10.01                        13 - April - 2023  16:11:14
+ ======================================================================
+
+
+ Fu and Li's Tests with an Outgroup
+ ----------------------------------
+
+ Input Data File: C:\...\fasta_nsam120_t10000_s0.01_mbslike.fas
+ Selected region: 1-12     Number of sites: 12
+ Total sites (excluding alignment gaps): 12
+
+ Intraspecific Data: sample_seq
+    Number of sequences: 120
+ Interspecific Data: outgroup
+    Number of sequences: 1
+       Sequence used: seq0                
+
+ =====  Intraspecific Data  =====
+
+ Number of segregating sites, S: 12
+ Total number of mutations, Eta: 12
+ Total number of mutations in external branches, Eta(e): 0
+ Total number of singleton mutations, Eta(s): 0
+
+ Average number of pairwise nucleotide differences, k: 3.130
+ Nucleotide diversity, Pi: 0.26081
+
+ Theta estimated from k: 3.130
+ Theta estimated from Eta(e): 0.000
+ Theta estimated from Eta: 2.239
+
+ Fu and Li's D test statistic, FL-D: 1.49361
+     Statistical significance: Not significant, 0.10 > P > 0.05
+ Fu and Li's F test statistic, FL-F: 1.58511
+     Statistical significance: Not significant, 0.10 > P > 0.05
+
+ Fay and Wu's H test statistic, FW-H: 1.85602
+ Normalized Fay and Wu's Hn test statistic, FW-Hn: 1.06419
+
+ Calculated using the total number of mutations
+
