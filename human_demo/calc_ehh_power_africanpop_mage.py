@@ -264,7 +264,7 @@ def main():
     # pop size in unite of N0
     N0 = 100000
     N1 = 24000
-    N2 = 2500
+    N2 = 6250
     N3 = 24000
     N4 = 12500
     # demographic event timing in year
