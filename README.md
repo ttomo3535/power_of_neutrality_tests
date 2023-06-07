@@ -43,3 +43,10 @@ Scripts used in the manuscripts are available in the following folders:
   - Scripts to generate null distribution of tests statistics under human demographic models (.py files)
   - Scripts to calculate power under human demographic models (.py files)
   - These scripts were used to generate Figure 6, 7, 8 and S9.
+
+- stats
+  - README file (.md file)
+  - sample data
+  - sfs-based statistics calculated by DnaSp (.txt)
+  - sfs-based statistics calculated by in-house scripts (.ipynb)
+  - table which compares the values of SFS-based statistics calculated by the custom scripts and those calculated by DnaSp
